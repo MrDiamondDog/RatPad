@@ -15,11 +15,11 @@ Part of Hack Club's Blueprint YSWS.
 
 ## Todo
 
--[x] Schematic
--[x] Routing PCB
--[ ] Case Design
--[ ] Get Physical Items
--[ ] Program It
+- [x] Schematic
+- [x] Routing PCB
+- [ ] Case Design
+- [ ] Get Physical Items
+- [ ] Program It
 
 ## Images
 
