@@ -27,12 +27,12 @@ Part of Hack Club's Blueprint YSWS.
 
 ## Images
 
-![Schematic](img/Schematic V2.png)
+![Schematic](img/Schematic_V2.png)
 
-![PCB](img/PCB V2.png)
+![PCB](img/PCB_V2.png)
 
 ![Case Base](img/Case.png)
 
-![Case Top](img/Case Top.png)
+![Case Top](img/Case_Top.png)
 
 *Note: Everything you see here is currently subject to change. This is the prototype version, nothing physical exists thus far.*
