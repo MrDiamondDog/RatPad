@@ -3,3 +3,4 @@ RatPad-backups/
 *.lck
 gerbers/
 *.zip
+*.uf2

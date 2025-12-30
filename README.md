@@ -21,7 +21,7 @@ Part of Hack Club's Blueprint YSWS.
 - [x] Schematic
 - [x] Routing PCB
 - [x] Case Design
-- [ ] Basic Firmware
+- [x] Basic Firmware
 - [ ] Get Physical Items
 - [ ] Program It
 
